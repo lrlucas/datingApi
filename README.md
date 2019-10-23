@@ -1,6 +1,8 @@
-# .NET Core Home
+# Proyecto DatingApp.Api .NET Core 2.2
 
-The dotnet/core repository is a good starting point for .NET Core.
+Documentacion del proyecto disponible aqui 
+[Documentacion](https://documenter.getpostman.com/view/1152694/SVzw51Ed)
+contiene todas las rutas que estan disponibles en este proyecto.
 
 The latest major release is [.NET Core 2.2](release-notes/2.2). The latest patch updates are listed in [.NET Core release notes](release-notes/README.md).
 
